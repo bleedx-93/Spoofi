@@ -9,7 +9,7 @@ A tool to inject Shellcode into the remote process.
 Features:
 - Parent Process Spoofing
 - Injection through APC
-- Dynamic API resolution
+- Dynamic API resolution for bypassing static analysis
 - Low detection rate (on VT AV engines)
 
 How to Use:
