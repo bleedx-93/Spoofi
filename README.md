@@ -1,7 +1,5 @@
 # Spoofi<br/><br/>
-<img src = "Images/1.jpg">
 
-<p><b>SCALED<b><p>
   
 <img src = "Images/1.jpg" width=50>
 
