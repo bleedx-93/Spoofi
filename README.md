@@ -1,5 +1,9 @@
-# Spoofi
-![Images](Images/1.jpg)
+# Spoofi<br/><br/>
+<img src = "Images/1.jpg">
+
+<p><b>SCALED<b><p>
+
+
 A simple tool to inject shellcode into the remote process.<br/>
 
 Features:<br/> 
