@@ -4,7 +4,7 @@
 <img src = "Images/1.jpg" width=200>
 
 
-A simple tool to inject shellcode into the remote process.<br/>
+A tool to inject shellcode into the remote process.<br/>
 
 Features:<br/> 
               - Parent Process Spoofing<br/>
