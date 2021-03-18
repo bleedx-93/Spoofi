@@ -4,7 +4,9 @@ A simple tool to inject shellcode into the remote process.<br/>
 Features:<br/> 
               - Parent Process Spoofing<br/>
               - Injection through APC<br/>
-              - Dynamic API resolution<br/><br/>
+              - Dynamic API resolution<br/>
+              - Low detection rate<br/><br/>
+
 
 
 How to Use:<br/>
