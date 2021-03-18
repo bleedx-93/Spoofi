@@ -1,7 +1,7 @@
 # Spoofi<br/>
 
   
-<center><img src = "Images/1.jpg" width=200><center>
+<center><img src = "Images/1.jpg" width=200></center>
 
 
 A simple tool to inject shellcode into the remote process.<br/>
