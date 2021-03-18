@@ -1,27 +1,23 @@
-# Spoofi<br/>
+# Spoofi
 
-  
-<img src = "Images/1.jpg" width=200>
+<div style="text-align: center; ">
+  <img src="Images/1.jpg" width="200">
+</div>
 
+A tool to inject Shellcode into the remote process.
 
-A tool to inject shellcode into the remote process.<br/>
+Features:
+- Parent Process Spoofing
+- Injection through APC
+- Dynamic API resolution
+- Low detection rate (on VT AV engines)
 
-Features:<br/> 
-              - Parent Process Spoofing<br/>
-              - Injection through APC<br/>
-              - Dynamic API resolution<br/>
-              - Low detection rate (on VT AV engines)<br/><br/>
-
-
-
-How to Use:<br/>
-            1- Put your shellcode in the shellcode variable<br/>
-            2- Put your desired process full path in TargetProcess variable (Default value: iexplore.exe full path)<br/>
-            3- Put your desired parent process in ParentProcess variable (Default value: "explorer.exe")<br/>
-            4- Compile it<br/>
-            5- Execute it through CommandLine<br/><br/><br/>
-            
-            
+How to Use:
+1. Put your shellcode in the shellcode variable
+2. Put your desired process full path in TargetProcess variable (Default value: iexplore.exe full path)
+3. Put your desired parent process in ParentProcess variable (Default value: "explorer.exe").
+4. Compile the Code
+5. Execute it by CMD or PowerShell
  
- <img src = "Images/2.png" width=1000>
- <img src = "Images/3.png" width=1000>
+ <img src="Images/2.png" width="1000">
+ <img src="Images/3.png" width="1000">
