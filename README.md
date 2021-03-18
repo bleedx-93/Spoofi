@@ -1,5 +1,5 @@
 # Spoofi
-A simple tool to inject shellcode into the remote process.
+A simple tool to inject shellcode into the remote process.  
 
 features: 
               - Parent Process Spoofing
