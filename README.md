@@ -23,4 +23,4 @@ How to Use:<br/>
             
             
  
- <img src = "Images/2.jpg" width=300>
+ <img src = "Images/2.png" width=300>
