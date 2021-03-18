@@ -1,7 +1,7 @@
 # Spoofi
-A simple tool to inject shellcode into the remote process.  
+A simple tool to inject shellcode into the remote process.<br/>
 
-features: 
-              - Parent Process Spoofing
-              - Injection through APC 
-              - Dynamic API resolution
+features:<br/> 
+              - Parent Process Spoofing<br/>
+              - Injection through APC<br/>
+              - Dynamic API resolution<br/>
