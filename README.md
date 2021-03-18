@@ -10,7 +10,7 @@ Features:<br/>
               - Parent Process Spoofing<br/>
               - Injection through APC<br/>
               - Dynamic API resolution<br/>
-              - Low detection rate<br/><br/>
+              - Low detection rate (on VT AV engines)<br/><br/>
 
 
 
