@@ -1,6 +1,6 @@
 /*
             Author: Mohammad Khorram
-            Description: A simple tool to inject shellcode into the remote process.
+            Description: A tool to inject shellcode into the remote process.
             features: 
             - Parent Process Spoofing
             - Injection through APC 
